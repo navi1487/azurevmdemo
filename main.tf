@@ -18,6 +18,6 @@ resource "azurerm_resource_group" "example" {
   name     = "DocProc-1"
   location = "East US 2"
   tags = {
-    Name = "CGDev"
+    Name = "CGDev2"
   }
 }
